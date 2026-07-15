@@ -52,7 +52,7 @@ export type Video = {
 /* -------------------------------------------------------------------------- */
 
 export const DOCTOR = {
-  name: "Robert Whitfield, MD",
+  name: "Dr. Robert Whitfield MD",
   tagline: "Board-Certified Plastic Surgeon · Breast Implant Illness & Explant Specialist · Austin, Texas",
   bookingUrl: "https://drrobertwhitfield.com/book", // TODO: confirm discovery-call URL
   // Credentials shown in the trust bar. Edit freely.
