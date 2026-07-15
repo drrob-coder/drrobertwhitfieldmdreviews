@@ -10,8 +10,8 @@ export function Hero() {
         <p className="mb-4 text-sm font-medium uppercase tracking-widest text-brand">
           Verified Patient Reviews
         </p>
-        <h1 className="max-w-3xl font-serif text-4xl leading-tight sm:text-5xl">
-          What real patients say about {DOCTOR.name}
+        <h1 className="max-w-4xl font-serif text-4xl leading-tight sm:text-5xl">
+          What real patients say about <span className="whitespace-nowrap">{DOCTOR.name}</span>
         </h1>
         <p className="mt-5 max-w-2xl text-lg text-white/75">{DOCTOR.tagline}</p>
 
