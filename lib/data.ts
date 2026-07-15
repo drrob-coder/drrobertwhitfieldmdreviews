@@ -431,7 +431,63 @@ export const PATIENT_STORIES: Video[] = [
     patient: "Kathy Dixon",
     uploadDate: "2025-08-14",
     summary:
-      "Kathy Dixon shares a candid, detailed account of her path to explant surgery — the kind of story Dr. Whitfield believes every woman considering her options should hear. Together they walk through her symptoms, her research, her decision-making, and what her recovery has meant for her quality of life."
+      "Kathy, a dedicated mother of four, embarked on a transformative health journey after experiencing a constellation of debilitating symptoms in 2023 — including a significant spike in anxiety — that she initially struggled to connect. Her diligent research led her to the realization that she was suffering from Breast Implant Illness. Drawn to Dr. Whitfield's principled and holistic approach, Kathy undertook extensive physical and mental preparation before her explant procedure. Her journey was deeply reflective, confronting cultural influences and past decisions that led to her initial augmentation. Post-explant, Kathy experienced a profound sense of healing and self-acceptance. She found renewed compassion for her younger self and an overwhelming excitement for her future, embracing her body with love and confidence. Her story underscores the critical importance of comprehensive care and support in navigating complex medical and personal transformations."
+  },
+  {
+    youtubeId: "eIfnZQMQhCA",
+    title: "Why Recovery Took 2 Years, Not 2 Weeks | Madison Miranda's Healing Journey",
+    patient: "Madison",
+    uploadDate: "2025-02-10",
+    summary:
+      "After a decade with breast implants, Madison's health took a sudden downturn following the emotional trauma of her mother's passing. For three years, she battled extreme bloating, chronic headaches, and developing food intolerances that left her feeling defeated. Despite consulting numerous doctors and trying various treatments without success, she eventually realized her implants were the root cause. Hopeful but realistic, Madison underwent explant surgery with fat transfer. Her recovery was not an overnight miracle but a gradual journey of healing. While some symptoms like bloating and gluten intolerance resolved quickly, her energy levels and weight took longer to normalize. Two years later, Madison has lost 35 pounds and feels like herself again — proving that trusting the process and her body's ability to heal was the key to her remarkable transformation."
+  },
+  {
+    youtubeId: "ijE8UdIhmRE",
+    title: "You Don't Need to Be Sick Enough to Deserve Help with Jessica Brassington",
+    patient: "Jessica",
+    uploadDate: "2025-01-20",
+    summary:
+      "In this follow-up conversation, Jessica speaks to a message she feels compelled to share: you do not need to be severely ill to deserve help. She found herself in a traumatic season of life and, while her symptoms weren't debilitating, they were persistent and she felt a calling to address the underlying issue. After hearing Dr. Whitfield speak about how traumatic events can exacerbate implant-related symptoms, she began to connect the dots. Through prayer and guidance, she found Dr. Whitfield and underwent explant surgery with a fat transfer. The surgery was a turning point — not just for her physical healing, but also for her emotional and personal healing journey. She is now a passionate advocate for women's health, encouraging others to be informed and proactive before symptoms become severe."
+  },
+  {
+    youtubeId: "DDC9xKhZeKI",
+    title: "Breast Explant Surgery: A Candid Discussion with Tiffany Blackmon and Dr. Robert Whitfield",
+    patient: "Tiffany",
+    uploadDate: "2025-01-08",
+    summary:
+      "Tiffany, a healthy and athletic woman, underwent breast augmentation in 2011. Soon after a revision surgery, she began experiencing inexplicable symptoms — chronic pain, joint issues, and severe GI problems — that doctors initially dismissed as allergies or perimenopause. Years later, she tested positive for an ANA marker, indicating an autoimmune condition. Despite her healthy lifestyle, her body was failing, and she never connected her symptoms to her implants until she found Dr. Whitfield in 2023. Dr. Whitfield identified an underlying infection as the likely cause of her chronic inflammatory process. Following her explant surgery and participation in the SHARP Method, Tiffany experienced a profound transformation, regaining her health and vitality. Her journey highlights the critical link between breast implants and systemic health issues, offering hope and a path to recovery for others."
+  },
+  {
+    youtubeId: "6dlAgAysKBU",
+    title: "Why She Couldn't Remember Her Own Life with Brooke Ochojski",
+    patient: "Brooke",
+    uploadDate: "2024-12-15",
+    summary:
+      "Brooke's journey began with debilitating fatigue, memory loss, and a host of unexplained symptoms including SIBO and perioral dermatitis. Despite her healthy lifestyle and extensive exploration of functional medicine, she felt perpetually unwell — describing herself as \"the sick person.\" Her immune system was constantly compromised, she struggled with insomnia, and she felt a profound sense of frustration that her body was failing her. Trusting her intuition, Brooke delved into research on Breast Implant Illness, which resonated deeply with her experiences. This discovery led her to Dr. Whitfield, where she underwent explant surgery. Eight months post-procedure, Brooke has experienced a remarkable transformation: newfound energy, a sense of liberation, and a deeper self-love than she ever had with her implants."
+  },
+  {
+    youtubeId: "OnJeCvFT9o0",
+    title: "The Day I Collapsed | Erika's Healing Journey from Implant-Related Symptoms",
+    patient: "Erika",
+    uploadDate: "2024-09-30",
+    summary:
+      "Erika, a mother of two, initially dismissed her severe brain fog, memory loss, and chronic fatigue as the normal exhaustion of a busy mom. However, her symptoms escalated to include debilitating back pain, heart palpitations, and a terrifying moment when she collapsed and could not get off the floor. The turning point came when she almost dropped her baby — a moment filled with terror that made her realize something was seriously wrong. After seeing other women share their stories of Breast Implant Illness online and learning that a friend had been treated by Dr. Whitfield, she connected the dots to her own decade-old implants. Erika underwent explant surgery, and the transformation was immediate and profound: the inflammation subsided, the brain fog lifted, and she felt truly alive again — finally able to be the mother she wanted to be."
+  },
+  {
+    youtubeId: "kgdpMH5nC-o",
+    title: "Brain Surgery, Inflammation & Healing: Taylor Dukes' Story with Dr. Robert Whitfield",
+    patient: "Taylor",
+    uploadDate: "2024-09-15",
+    summary:
+      "Taylor embarked on a profound health journey after experiencing a significant decline following breast implant surgery and international travel. Initially a healthy individual, she developed chronic inflammation, hair loss, joint pain, stomach issues, and skin problems, leading her to explore functional medicine. This holistic approach helped her regain much of her health. A routine preventative scan later uncovered a brain tumor, which Taylor proactively addressed through an intensive integrative therapy program — including a metabolic ketosis diet — before undergoing successful brain surgery. Her remarkable recovery led her to Dr. Whitfield for explant surgery. Taylor recognized her breast implants as a key factor in suppressing her immune system, contributing to her earlier health struggles. Her story is a testament to the power of integrative care and proactive health management, resulting in an exceptionally swift recovery from both major procedures and a return to vibrant health."
+  },
+  {
+    youtubeId: "6X8hZcBeLBI",
+    title: "Life After Chronic Inflammation: Casey's Story & Dr. Whitfield's Insights",
+    patient: "Casey",
+    uploadDate: "2024-08-20",
+    summary:
+      "Casey received breast implants at 23 and soon experienced a dramatic decline in her health. Within six months she gained 30 pounds, suffered from chronic inflammation, rashes, and debilitating fatigue. Over the years her symptoms worsened — hormonal issues, dry skin, swollen lymph nodes, and severe chest pain led to depression and anxiety. Despite extensive lifestyle changes and consultations with various specialists, her condition remained a mystery. A breast implant rupture in Spain, followed by a replacement surgery, only exacerbated her symptoms. Realizing her implants were the root cause, Casey embarked on a rigorous research quest and discovered Breast Implant Illness. Her determination led her to Dr. Whitfield, whose holistic approach and SHARP Method resonated deeply. Casey underwent explant surgery, prioritizing her health over aesthetics. Her recovery has been transformative, restoring her well-being and enabling her to embrace a healthier future."
   },
   {
     youtubeId: "JxbHPY0Yigc",
@@ -439,7 +495,39 @@ export const PATIENT_STORIES: Video[] = [
     patient: "Kasey Dixon",
     uploadDate: "2024-07-25",
     summary:
-      "Kasey Dixon chose to combine breast implant removal with simultaneous fat transfer. She joins Dr. Whitfield to discuss why she pursued a natural, holistic approach to restoring her shape, what the combined procedure involved, and how she felt about her results and recovery."
+      "Kasey's journey began with a breast augmentation in her 20s, a decision influenced by her surroundings and a desire for more volume. Years later, after having children, she experienced various symptoms she initially attributed to postpartum changes — fatigue, brain fog, and persistent nerve problems in her neck and back. These symptoms, which she later recognized as Breast Implant Illness, prompted her to seek explant surgery. Kasey had previously switched from saline to silicone implants due to implant malposition, a revision that failed to resolve her issues. Dr. Whitfield performed her explant surgery with a simultaneous fat transfer to restore natural volume. Kasey emphasizes that her primary motivation was her health, and while the aesthetic changes were initially an adjustment, she has since regained confidence and feels completely herself again. She highlights the importance of a supportive network during recovery."
+  },
+  {
+    youtubeId: "oPJjTcZT0PQ",
+    title: "The Perfect Storm: When Implants Become a Band-Aid for Deeper Wounds with Kristi Sager",
+    patient: "Kristi",
+    uploadDate: "2024-06-18",
+    summary:
+      "Kristi's journey began with a desire to reclaim her pre-pregnancy body and confidence, a feeling amplified after a divorce. The discovery of a lump in her breast, coupled with a family history of breast cancer, led her to a decision she thought was a \"one and done\" upgrade — breast implants. She justified it as a medical necessity, unaware of the long-term maintenance and potential complications. Soon after, her health deteriorated. She suffered from debilitating joint pain, chronic fatigue, and a host of inflammatory symptoms that left her bedridden and unable to enjoy her active lifestyle. A friend suggested she might have Breast Implant Illness, a realization that resonated deeply. This prompted her to seek out Dr. Whitfield. After her explant surgery, Kristi embarked on a detox journey and attests to the profound difference in how her body feels and functions today."
+  },
+  {
+    youtubeId: "KcSfP5lRs2w",
+    title: "When Enhancements Backfire: One Mom's Journey from Shame to Healing | Regina Steele",
+    patient: "Regina",
+    uploadDate: "2024-05-22",
+    summary:
+      "Regina's journey began with lifelong discomfort due to her breast size, starting at a young age and intensifying after childbirth. She experienced back pain and self-image struggles, leading her to seek surgical solutions. A previous surgeon recommended implants for a lifted appearance despite Regina's desire for reduction — a decision she later regretted due to a lack of information on alternatives. Her path to healing truly began when she discovered Dr. Whitfield's podcast, where she learned about explant surgery and fat transfer, realizing there were other options. Undergoing explant surgery with Dr. Whitfield marked a significant turning point, transforming her from a state of shame and physical discomfort to one of healing and empowerment. Today, Regina helps other women achieve hormone balance, energy, and confidence through her integrative nutrition and holistic healing approach — embodying her own profound transformation."
+  },
+  {
+    youtubeId: "_t3D_sRXTM4",
+    title: "From Chronic Symptoms to Healing: Allie Janszen's Wellness Journey with Dr. Robert Whitfield",
+    patient: "Allie",
+    uploadDate: "2024-04-12",
+    summary:
+      "Allie's wellness journey is a powerful testament to the body's ability to heal. For years after her fourth child, she struggled with extreme fatigue, persistent joint pain, chronic inflammation that prevented weight loss, and a diagnosis of Meniere's disease causing weekly episodes of vertigo. After discovering Breast Implant Illness, she decided to have her implants removed by Dr. Whitfield. The transformation was immediate and profound. Within a month, her Meniere's symptoms vanished completely. Over the next three months, she shed nearly 30 pounds of inflammation without altering her diet or exercise routine. Her energy returned, the debilitating fatigue disappeared, and her sleep quality improved dramatically. Allie's story is one of reclaiming her life — moving from chronic illness to vibrant health, renewed energy, and restored confidence."
+  },
+  {
+    youtubeId: "zI5uTUyiIBE",
+    title: "The Hidden Dangers Behind Chronic Symptoms: Jacqui Nelson Talks with Dr. Robert Whitfield",
+    patient: "Jacqui",
+    uploadDate: "2024-03-05",
+    summary:
+      "Jacqui's journey began at a young age when she got saline breast implants at 22. Initially pleased, she soon faced discomfort and rippling, prompting a switch to silicone implants. Shortly after, she began experiencing severe brain fog, chronic inflammation, skin cancers, dry mouth, dry eyes, and amplified anxiety and depression. These symptoms intensified over the years, culminating in debilitating chronic fatigue by 2021 that forced her to step away from her career. Despite numerous holistic treatments and dietary changes, her health continued to decline. Discovering Dr. Whitfield through a podcast, Jacqui underwent extensive testing that revealed severe heavy metal and mold toxicities along with significant gut issues. She decided on explant surgery, embracing a long-term healing mindset. Now actively participating in the SHARP Method, she is slowly regaining her vitality and feeling like she has her life back."
   }
 ];
 
