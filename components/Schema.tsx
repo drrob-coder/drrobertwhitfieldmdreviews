@@ -22,7 +22,7 @@ export function Schema() {
     medicalSpecialty: "PlasticSurgery",
     description:
       "Board-certified plastic surgeon specializing in breast implant illness and explant surgery in Austin, Texas.",
-    url: "https://drrobertwhitfieldmdreviews.com",
+    url: "https://www.drrobertwhitfieldmdreviews.com",
     sameAs: [
       ...DOCTOR.network.map((n) => n.url),
       ...REVIEW_SOURCES.map((s) => s.profileUrl)
