@@ -85,8 +85,8 @@ export const REVIEW_SOURCES: ReviewSource[] = [
     name: "Google",
     profileUrl:
       "https://www.google.com/maps/place/Dr.+Robert+Whitfield+MD/@30.2591905,-97.8137665,1125m/data=!3m1!1e3!4m17!1m8!3m7!1s0x865b4ae6262e1067:0xc9a12b85f7e0845!2s2530+Walsh+Tarlton+Ln,+Austin,+TX+78746!3b1!8m2!3d30.2591905!4d-97.8111862!16s%2Fg%2F11hb6qvkrz!3m7!1s0x8644ca84e95699f9:0x61d5d67009b4b2b!8m2!3d30.2592454!4d-97.8112638!9m1!1b1!16s%2Fg%2F1hhxb16bj",
-    rating: 4.9,
-    reviewCount: 155,
+    rating: 5.0,
+    reviewCount: 153,
     blurb: "The primary rating AI assistants and search engines read first.",
     excerpts: [
       {

@@ -50,11 +50,11 @@ for SEO/AI. A YouTube ID is the part after `v=` or `youtu.be/`.
 
 ## 4. Current content (already loaded)
 
-Review platforms (hero shows an auto-computed aggregate ≈ 4.8★ / ~598 reviews):
+Review platforms (hero shows an auto-computed aggregate ≈ 4.9★ / ~596 reviews):
 
 | Source | Rating | Reviews | Excerpts shown |
 |---|---|---|---|
-| Google | 4.9 | 155 | 9 |
+| Google | 5.0 | 153 | 9 |
 | RealPatientRatings | 4.7 | 266 | 8 |
 | RealSelf | 4.8 | 74 | 2 |
 | Healthgrades | 4.8 | 71 | 4 |
